@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Sameer!
-I'm an automation testing enthusiast with a background in business analysis. Currently, I'm exploring automation frameworks and tools to enhance software quality.
+I'm a Manual testing engineer with a background in business analysis. Currently, I'm exploring automation frameworks and tools to enhance software quality.
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-ahammed-shaik-404612144)
